@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>377CE321-97BC-41CD-AE85-451ED1FCB3C4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>variable2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C0B187A2DD157DB11B90DA069E72546A9A7E6B06</key>
+		<string>https://github.com/lcaponong/FirstRepo.git</string>
+		<key>D3D9B30357A1A8070CC220D6114BE749DF89284A</key>
+		<string>https://github.com/lcaponong/06-04.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>variable2/variable2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C0B187A2DD157DB11B90DA069E72546A9A7E6B06</key>
+		<string>../../../../..</string>
+		<key>D3D9B30357A1A8070CC220D6114BE749DF89284A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lcaponong/06-04.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D3D9B30357A1A8070CC220D6114BE749DF89284A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C0B187A2DD157DB11B90DA069E72546A9A7E6B06</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D3D9B30357A1A8070CC220D6114BE749DF89284A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>06-04</string>
+		</dict>
+	</array>
+</dict>
+</plist>

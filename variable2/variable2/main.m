@@ -30,6 +30,7 @@ int main(int argc, const char * argv[]) {
         
         NSLog (@" girl - boy = %i", seso);
         
+        NSLog(@"COOL CHANGES");
     
         
         
