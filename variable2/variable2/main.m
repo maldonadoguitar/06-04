@@ -44,12 +44,11 @@ int main(int argc, const char * argv[]) {
         NSLog (@"+-----------------------------+");
         
        
-        NSString *+-----------------------------+ = @"+-----------------------------+";
         NSString *fisk = @"Fisk";
         NSString *lessons = @"lessons";
         NSString *dalton = @"Dalton";
         NSString *musicTheory = @"Music Theory";
-        NSString *+-----------------------------+ = @"+-----------------------------+";
+        
         
     
         
